@@ -98,6 +98,7 @@ let questionsection = document.getElementById('questionsection')
 let questionone = document.getElementById('questionone')
 let questiontwo = document.getElementById('questiontwo')
 let questionthree = document.getElementById('questionthree')
+let submit = document.getElementById('submit')
 
 
 function darkTheme() {
@@ -137,6 +138,8 @@ function darkTheme() {
     questionone.style.color = 'white'
     questiontwo.style.color = 'white'
     questionthree.style.color = 'white'
+    submit.style.backgroundColor = 'white'
+    submit.style.color = 'black'
     
 
 

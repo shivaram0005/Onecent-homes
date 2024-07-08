@@ -471,8 +471,9 @@ margin-top: 50px;
 }
 
 form button{
-    background: #141a34;
-    color: #fff;
+   
+    background-color: #000;
+    color: #ffffff;
     border-radius: 4px;
     border: 1px solid rgba(255, 255, 255, 0.7);
     padding: 10px 40px;
